@@ -2,3 +2,4 @@ nginx
 fjlzwl/nastool
 linuxserver/jackett
 jellyfin/jellyfin
+guovern/iptv-api
